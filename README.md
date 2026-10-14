@@ -1,39 +1,103 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:101C42,70:34205C,100:087EAA&height=220&section=header&text=TOKYO%20AFTER%20DARK&fontSize=38&fontColor=9DEBFF&fontAlignY=38&animation=fadeIn&desc=%E6%97%A5%E6%9C%AC%E3%81%AE%E5%A4%9C%20%E2%80%A2%20NEON%20DREAMS&descSize=14&descAlignY=58)
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=79DFFF&center=true&vCenter=true&width=600&lines=%E9%9D%99%E5%AF%82%E3%81%AE%E4%B8%AD%E3%81%AB%E3%80%81%E7%84%A1%E9%99%90%E3%81%8C%E3%81%82%E3%82%8B%E3%80%82;Lost+in+the+lights+of+Tokyo...;Welcome+to+the+other+side+of+midnight." alt="Animated Japanese quotes" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:112250,100:1e40af&height=210&section=header&text=BUSHIDO&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=o%20caminho%20do%20guerreiro%20digital&descColor=93c5fd&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Bushido" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3200&pause=1000&color=60A5FA&background=0A0F1E&center=true&vCenter=true&width=700&height=60&lines=%E4%BE%8D+%C2%B7+o+caminho+do+guerreiro;%E4%B8%83%E8%BB%A2%E3%81%B3%E5%85%AB%E8%B5%B7%E3%81%8D+%C2%B7+caia+sete+vezes%2C+levante+oito;%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A+%C2%B7+cada+encontro+acontece+uma+s%C3%B3+vez;%E7%B6%99%E7%B6%9A%E3%81%AF%E5%8A%9B%E3%81%AA%E3%82%8A+%C2%B7+persistir+%C3%A9+ter+poder;%E9%81%93+%C2%B7+o+caminho+%C3%A9+o+destino" alt="frases japonesas" />
 
-<img src="https://img.shields.io/badge/東京-NEON%20CITY-101C42?style=for-the-badge&labelColor=080C18" />
-<img src="https://img.shields.io/badge/日本-夜の世界-34205C?style=for-the-badge&labelColor=080C18" />
-<img src="https://img.shields.io/badge/🌸-SAKURA%20SEASON-087EAA?style=for-the-badge&labelColor=080C18" />
+<br>
 
-<br/><br/>
+⛩️ &nbsp;─────── &nbsp;🌸&nbsp; ─────── &nbsp;🐉&nbsp; ─────── &nbsp;🌸&nbsp; ─────── &nbsp;⛩️
 
-<img src="https://github-readme-stats.vercel.app/api?username=Klm4306&show_icons=true&hide_border=true&bg_color=080C18&title_color=79DFFF&text_color=C8D8F0&icon_color=B99AFF&ring_color=79DFFF&include_all_commits=true" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klm4306&layout=compact&hide_border=true&bg_color=080C18&title_color=79DFFF&text_color=C8D8F0&langs_count=6" height="165" alt="Most used languages" />
+<br>
 
-<br/><br/>
+### 🗡️ 武士道 · os sete códigos do samurai
 
-<img src="https://streak-stats.demolab.com?user=Klm4306&hide_border=true&background=080C18&ring=79DFFF&fire=B99AFF&currStreakLabel=79DFFF&sideLabels=C8D8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8295B5" width="70%" alt="GitHub contribution streak" />
+<img src="https://img.shields.io/badge/%E7%BE%A9%20GI-justi%C3%A7a-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="義 GI justiça" />
+<img src="https://img.shields.io/badge/%E5%8B%87%20YU-coragem-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="勇 YU coragem" />
+<img src="https://img.shields.io/badge/%E4%BB%81%20JIN-compaix%C3%A3o-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="仁 JIN compaixão" />
+<img src="https://img.shields.io/badge/%E7%A4%BC%20REI-respeito-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="礼 REI respeito" />
+<img src="https://img.shields.io/badge/%E8%AA%A0%20MAKOTO-sinceridade-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="誠 MAKOTO sinceridade" />
+<img src="https://img.shields.io/badge/%E5%90%8D%E8%AA%89%20MEIYO-honra-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="名誉 MEIYO honra" />
+<img src="https://img.shields.io/badge/%E5%BF%A0%E7%BE%A9%20CHUGI-lealdade-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="忠義 CHUGI lealdade" />
 
-<br/>
+<br><br>
 
-### `⛩️` — 東京の夜
+### 📜 巻物 · pergaminho do guerreiro
 
-<img src="https://img.shields.io/badge/STATUS-EXPLORING%20THE%20UNKNOWN-101C42?style=flat-square&labelColor=080C18" />
-<img src="https://komarev.com/ghpvc/?username=Klm4306&style=flat-square&color=087EAA&label=VISITORS" />
+<table width="660">
+<tr>
+<td colspan="4" align="center"><br><b>░▒▓&nbsp; 武 &nbsp;士 &nbsp;道 &nbsp;·&nbsp; B U S H I D O &nbsp;▓▒░</b><br><sub>🏯 dojo aberto &nbsp;·&nbsp; 🐉 dragão acordado &nbsp;·&nbsp; 🌸 estação: primavera</sub><br><br></td>
+</tr>
+<tr>
+<td align="left">&nbsp;<b>刀</b>&nbsp; KATANA</td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0-3b82f6?style=flat-square" alt="95%" /></td>
+<td align="right"><code>95%</code></td>
+<td align="left"><sub><i>afiada</i></sub></td>
+</tr>
+<tr>
+<td align="left">&nbsp;<b>禅</b>&nbsp; ZEN</td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1-2563eb?style=flat-square" alt="72%" /></td>
+<td align="right"><code>72%</code></td>
+<td align="left"><sub><i>respirando fundo</i></sub></td>
+</tr>
+<tr>
+<td align="left">&nbsp;<b>茶</b>&nbsp; CHÁ</td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0-3b82f6?style=flat-square" alt="99%" /></td>
+<td align="right"><code>99%</code></td>
+<td align="left"><sub><i>sempre quente</i></sub></td>
+</tr>
+<tr>
+<td align="left">&nbsp;<b>龍</b>&nbsp; DRAGÃO INTERIOR</td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1-3b82f6?style=flat-square" alt="88%" /></td>
+<td align="right"><code>88%</code></td>
+<td align="left"><sub><i>acordado</i></sub></td>
+</tr>
+<tr>
+<td align="left">&nbsp;<b>桜</b>&nbsp; SAKURA</td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1-2563eb?style=flat-square" alt="60%" /></td>
+<td align="right"><code>60%</code></td>
+<td align="left"><sub><i>florescendo</i></sub></td>
+</tr>
+<tr>
+<td align="left">&nbsp;<b>眠</b>&nbsp; SONO</td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1-1e3a8a?style=flat-square" alt="3%" /></td>
+<td align="right"><code>3%</code></td>
+<td align="left"><sub><i>o guerreiro não dorme</i></sub></td>
+</tr>
+<tr>
+<td colspan="4" align="center"><br><b>「 七転び八起き 」</b><br><sub>caia sete vezes, levante oito.</sub><br><br></td>
+</tr>
+</table>
 
-<br/><br/>
+<br>
 
-*「月が綺麗ですね」*
+⛩️ &nbsp;─────── &nbsp;🌸&nbsp; ─────── &nbsp;🐉&nbsp; ─────── &nbsp;🌸&nbsp; ─────── &nbsp;⛩️
 
-<sub>The moon is beautiful, isn't it?</sub>
+<br>
 
-<br/>
+### 🐲 os números do guerreiro
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:087EAA,50:34205C,100:050816&height=100&section=footer" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Klm4306&show_icons=true&include_all_commits=true&custom_title=Estat%C3%ADsticas%20do%20Guerreiro&bg_color=0A0F1E&border_color=1E3A8A&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&ring_color=3B82F6" height="165" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klm4306&layout=compact&custom_title=Armas%20do%20Samurai&bg_color=0A0F1E&border_color=1E3A8A&title_color=60A5FA&text_color=CBD5E1" height="165" alt="linguagens" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=Klm4306&theme=dark&background=0A0F1E&border=1E3A8A&ring=3B82F6&fire=60A5FA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B" width="95%" alt="streak" />
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/Klm4306?style=for-the-badge&label=disc%C3%ADpulos&color=1e40af&labelColor=0a0f1e&logo=github&logoColor=white" alt="discípulos" />
+
+<br><br>
+
+### 🍃 俳句 · haiku do guerreiro
+
+*commit na calma,*<br>
+*o bug dorme em silêncio —*<br>
+*merge ao raiar do sol.*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,50:112250,100:0a0f1e&height=110&section=footer&text=arigato%20-%20obrigado%20por%20passar%20por%20aqui&fontColor=ffffff&fontSize=19&fontAlignY=70" width="100%" alt="arigato" />
 
 </div>
