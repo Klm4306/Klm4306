@@ -1,86 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:112250,100:1e40af&height=200&section=header&text=404%3A%20BIO%20NOT%20FOUND&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=a%20pagina%20que%20voce%20procura%20esta%20de%20ferias&descColor=93c5fd&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="404: bio not found" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:112250,100:1e40af&height=210&section=header&text=BUSHIDO&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=o%20caminho%20do%20guerreiro%20digital&descColor=93c5fd&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Bushido" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=60A5FA&background=0A0F1E&center=true&vCenter=true&width=640&height=60&lines=Compilando+caf%C3%A9...;git+commit+-m+%22fiz+alguma+coisa%22;Funciona+na+minha+m%C3%A1quina+%E2%84%A2;Ctrl%2BZ+%C3%A9+meu+melhor+amigo;Erro+404%3A+explica%C3%A7%C3%A3o+n%C3%A3o+encontrada" alt="frases aleatorias" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3200&pause=1000&color=60A5FA&background=0A0F1E&center=true&vCenter=true&width=700&height=60&lines=%E4%BE%8D+%C2%B7+o+caminho+do+guerreiro;%E4%B8%83%E8%BB%A2%E3%81%B3%E5%85%AB%E8%B5%B7%E3%81%8D+%C2%B7+caia+sete+vezes%2C+levante+oito;%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A+%C2%B7+cada+encontro+acontece+uma+s%C3%B3+vez;%E7%B6%99%E7%B6%9A%E3%81%AF%E5%8A%9B%E3%81%AA%E3%82%8A+%C2%B7+persistir+%C3%A9+ter+poder;%E9%81%93+%C2%B7+o+caminho+%C3%A9+o+destino" alt="frases japonesas" />
 
 <br>
 
-<img src="https://img.shields.io/badge/caf%C3%A9-99%25-1e40af?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=0a0f1e" alt="caf%C3%A9 99%25" />
-<img src="https://img.shields.io/badge/sono-404%20not%20found-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="sono 404%20not%20found" />
-<img src="https://img.shields.io/badge/bugs-feature%20n%C3%A3o%20documentada-1e40af?style=for-the-badge&logo=bugsnag&logoColor=white&labelColor=0a0f1e" alt="bugs feature%20n%C3%A3o%20documentada" />
-<img src="https://img.shields.io/badge/Ctrl%2BZ-9999%20usos-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="Ctrl%2BZ 9999%20usos" />
-<img src="https://img.shields.io/badge/humor-carregando...-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="humor carregando..." />
-<img src="https://img.shields.io/badge/status-s%C3%B3%20mais%20um%20commit-1e40af?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0f1e" alt="status s%C3%B3%20mais%20um%20commit" />
+⛩️ &nbsp;─────── &nbsp;🌸&nbsp; ─────── &nbsp;🐉&nbsp; ─────── &nbsp;🌸&nbsp; ─────── &nbsp;⛩️
+
+<br>
+
+### 🗡️ 武士道 · os sete códigos do samurai
+
+<img src="https://img.shields.io/badge/%E7%BE%A9%20GI-justi%C3%A7a-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="義 GI justiça" />
+<img src="https://img.shields.io/badge/%E5%8B%87%20YU-coragem-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="勇 YU coragem" />
+<img src="https://img.shields.io/badge/%E4%BB%81%20JIN-compaix%C3%A3o-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="仁 JIN compaixão" />
+<img src="https://img.shields.io/badge/%E7%A4%BC%20REI-respeito-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="礼 REI respeito" />
+<img src="https://img.shields.io/badge/%E8%AA%A0%20MAKOTO-sinceridade-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="誠 MAKOTO sinceridade" />
+<img src="https://img.shields.io/badge/%E5%90%8D%E8%AA%89%20MEIYO-honra-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="名誉 MEIYO honra" />
+<img src="https://img.shields.io/badge/%E5%BF%A0%E7%BE%A9%20CHUGI-lealdade-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="忠義 CHUGI lealdade" />
 
 <br><br>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/%F0%9F%9A%A8%20N%C3%83O%20CLIQUE%20AQUI-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="nao clique aqui" /></a>
-<img src="https://img.shields.io/github/followers/Klm4306?style=for-the-badge&label=seguidores&color=1e40af&labelColor=0a0f1e&logo=github&logoColor=white" alt="seguidores" />
+### 📜 巻物 · pergaminho do guerreiro
 
-</div>
-
-<br>
-
-<div align="center">
-
-### 📟 painel de bordo
-
-<table width="640">
+<table width="660">
 <tr>
-<td colspan="4" align="center"><br><b>░▒▓&nbsp; S I S T E M A &nbsp;O P E R A C I O N A L &nbsp;▓▒░</b><br><sub>● online &nbsp;·&nbsp; v4.0.4-beta &nbsp;·&nbsp; funcionando (mais ou menos)</sub><br><br></td>
+<td colspan="4" align="center"><br><b>░▒▓&nbsp; 武 &nbsp;士 &nbsp;道 &nbsp;·&nbsp; B U S H I D O &nbsp;▓▒░</b><br><sub>🏯 dojo aberto &nbsp;·&nbsp; 🐉 dragão acordado &nbsp;·&nbsp; 🌸 estação: primavera</sub><br><br></td>
 </tr>
 <tr>
-<td align="left">&nbsp;☕&nbsp; <b>CAFÉ</b></td>
+<td align="left">&nbsp;<b>刀</b>&nbsp; KATANA</td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0-3b82f6?style=flat-square" alt="95%" /></td>
+<td align="right"><code>95%</code></td>
+<td align="left"><sub><i>afiada</i></sub></td>
+</tr>
+<tr>
+<td align="left">&nbsp;<b>禅</b>&nbsp; ZEN</td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1-2563eb?style=flat-square" alt="72%" /></td>
+<td align="right"><code>72%</code></td>
+<td align="left"><sub><i>respirando fundo</i></sub></td>
+</tr>
+<tr>
+<td align="left">&nbsp;<b>茶</b>&nbsp; CHÁ</td>
 <td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0-3b82f6?style=flat-square" alt="99%" /></td>
 <td align="right"><code>99%</code></td>
-<td align="left"><sub><i>abastecido</i></sub></td>
+<td align="left"><sub><i>sempre quente</i></sub></td>
 </tr>
 <tr>
-<td align="left">&nbsp;🧠&nbsp; <b>FOCO</b></td>
-<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1-1d4ed8?style=flat-square" alt="27%" /></td>
-<td align="right"><code>27%</code></td>
-<td align="left"><sub><i>carregando...</i></sub></td>
-</tr>
-<tr>
-<td align="left">&nbsp;🐛&nbsp; <b>BUGS</b></td>
-<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1-2563eb?style=flat-square" alt="64%" /></td>
-<td align="right"><code>64%</code></td>
-<td align="left"><sub><i>é feature</i></sub></td>
-</tr>
-<tr>
-<td align="left">&nbsp;💤&nbsp; <b>SONO</b></td>
-<td align="center"><img src="https://img.shields.io/badge/%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1-1e3a8a?style=flat-square" alt="3%" /></td>
-<td align="right"><code>3%</code></td>
-<td align="left"><sub><i>404 not found</i></sub></td>
-</tr>
-<tr>
-<td align="left">&nbsp;🎮&nbsp; <b>DIVERSÃO</b></td>
-<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1-3b82f6?style=flat-square" alt="92%" /></td>
-<td align="right"><code>92%</code></td>
-<td align="left"><sub><i>nível alto</i></sub></td>
-</tr>
-<tr>
-<td align="left">&nbsp;⏳&nbsp; <b>PROCRASTINAR</b></td>
+<td align="left">&nbsp;<b>龍</b>&nbsp; DRAGÃO INTERIOR</td>
 <td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1-3b82f6?style=flat-square" alt="88%" /></td>
 <td align="right"><code>88%</code></td>
-<td align="left"><sub><i>amanhã eu faço</i></sub></td>
+<td align="left"><sub><i>acordado</i></sub></td>
 </tr>
 <tr>
-<td colspan="4" align="center"><br><code>$ sudo make-it-work</code><br><sub>[sudo] senha: ********</sub><br><b>✔ permissão concedida. boa sorte.</b><br><br></td>
+<td align="left">&nbsp;<b>桜</b>&nbsp; SAKURA</td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1-2563eb?style=flat-square" alt="60%" /></td>
+<td align="right"><code>60%</code></td>
+<td align="left"><sub><i>florescendo</i></sub></td>
+</tr>
+<tr>
+<td align="left">&nbsp;<b>眠</b>&nbsp; SONO</td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1-1e3a8a?style=flat-square" alt="3%" /></td>
+<td align="right"><code>3%</code></td>
+<td align="left"><sub><i>o guerreiro não dorme</i></sub></td>
+</tr>
+<tr>
+<td colspan="4" align="center"><br><b>「 七転び八起き 」</b><br><sub>caia sete vezes, levante oito.</sub><br><br></td>
 </tr>
 </table>
 
-</div>
+<br>
+
+⛩️ &nbsp;─────── &nbsp;🌸&nbsp; ─────── &nbsp;🐉&nbsp; ─────── &nbsp;🌸&nbsp; ─────── &nbsp;⛩️
 
 <br>
 
-<div align="center">
+### 🐲 os números do guerreiro
 
-### 📊 os números (não mentem... muito)
-
-<img src="https://github-readme-stats.vercel.app/api?username=Klm4306&show_icons=true&include_all_commits=true&custom_title=Estat%C3%ADsticas%20do%20Caos&bg_color=0A0F1E&border_color=1E3A8A&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&ring_color=3B82F6" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klm4306&layout=compact&custom_title=Idiomas%20que%20eu%20arranho&bg_color=0A0F1E&border_color=1E3A8A&title_color=60A5FA&text_color=CBD5E1" height="165" alt="linguagens" />
+<img src="https://github-readme-stats.vercel.app/api?username=Klm4306&show_icons=true&include_all_commits=true&custom_title=Estat%C3%ADsticas%20do%20Guerreiro&bg_color=0A0F1E&border_color=1E3A8A&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&ring_color=3B82F6" height="165" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klm4306&layout=compact&custom_title=Armas%20do%20Samurai&bg_color=0A0F1E&border_color=1E3A8A&title_color=60A5FA&text_color=CBD5E1" height="165" alt="linguagens" />
 
 <br>
 
@@ -88,21 +86,18 @@
 
 <br><br>
 
-### 🏆 conquistas desbloqueadas
+<img src="https://img.shields.io/github/followers/Klm4306?style=for-the-badge&label=disc%C3%ADpulos&color=1e40af&labelColor=0a0f1e&logo=github&logoColor=white" alt="discípulos" />
 
-<img src="https://img.shields.io/badge/%F0%9F%8F%86-abriu%20o%20terminal-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="%F0%9F%8F%86 abriu%20o%20terminal" />
-<img src="https://img.shields.io/badge/%F0%9F%8F%86-sobreviveu%20%C3%A0%20segunda-feira-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="%F0%9F%8F%86 sobreviveu%20%C3%A0%20segunda-feira" />
-<img src="https://img.shields.io/badge/%F0%9F%8F%86-apagou%20o%20node_modules-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="%F0%9F%8F%86 apagou%20o%20node_modules" />
-<img src="https://img.shields.io/badge/%F0%9F%8F%86-culpou%20o%20cache-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="%F0%9F%8F%86 culpou%20o%20cache" />
-<img src="https://img.shields.io/badge/%F0%9F%8F%86-esqueceu%20o%20ponto-e-v%C3%ADrgula-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="%F0%9F%8F%86 esqueceu%20o%20ponto-e-v%C3%ADrgula" />
-<img src="https://img.shields.io/badge/%F0%9F%8F%86-pesquisou%20no%20Stack%20Overflow-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="%F0%9F%8F%86 pesquisou%20no%20Stack%20Overflow" />
+<br><br>
 
-</div>
+### 🍃 俳句 · haiku do guerreiro
+
+*commit na calma,*<br>
+*o bug dorme em silêncio —*<br>
+*merge ao raiar do sol.*
 
 <br>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,50:112250,100:0a0f1e&height=110&section=footer&text=obrigado%20por%20passar%20por%20aqui&fontColor=ffffff&fontSize=20&fontAlignY=70" width="100%" alt="rodape" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,50:112250,100:0a0f1e&height=110&section=footer&text=arigato%20-%20obrigado%20por%20passar%20por%20aqui&fontColor=ffffff&fontSize=19&fontAlignY=70" width="100%" alt="arigato" />
 
 </div>
