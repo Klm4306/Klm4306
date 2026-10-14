@@ -26,26 +26,52 @@
 
 ### 📟 painel de bordo
 
-</div>
+<table width="640">
+<tr>
+<td colspan="4" align="center"><br><b>░▒▓&nbsp; S I S T E M A &nbsp;O P E R A C I O N A L &nbsp;▓▒░</b><br><sub>● online &nbsp;·&nbsp; v4.0.4-beta &nbsp;·&nbsp; funcionando (mais ou menos)</sub><br><br></td>
+</tr>
+<tr>
+<td align="left">&nbsp;☕&nbsp; <b>CAFÉ</b></td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0-3b82f6?style=flat-square" alt="99%" /></td>
+<td align="right"><code>99%</code></td>
+<td align="left"><sub><i>abastecido</i></sub></td>
+</tr>
+<tr>
+<td align="left">&nbsp;🧠&nbsp; <b>FOCO</b></td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1-1d4ed8?style=flat-square" alt="27%" /></td>
+<td align="right"><code>27%</code></td>
+<td align="left"><sub><i>carregando...</i></sub></td>
+</tr>
+<tr>
+<td align="left">&nbsp;🐛&nbsp; <b>BUGS</b></td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1-2563eb?style=flat-square" alt="64%" /></td>
+<td align="right"><code>64%</code></td>
+<td align="left"><sub><i>é feature</i></sub></td>
+</tr>
+<tr>
+<td align="left">&nbsp;💤&nbsp; <b>SONO</b></td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1-1e3a8a?style=flat-square" alt="3%" /></td>
+<td align="right"><code>3%</code></td>
+<td align="left"><sub><i>404 not found</i></sub></td>
+</tr>
+<tr>
+<td align="left">&nbsp;🎮&nbsp; <b>DIVERSÃO</b></td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1-3b82f6?style=flat-square" alt="92%" /></td>
+<td align="right"><code>92%</code></td>
+<td align="left"><sub><i>nível alto</i></sub></td>
+</tr>
+<tr>
+<td align="left">&nbsp;⏳&nbsp; <b>PROCRASTINAR</b></td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1-3b82f6?style=flat-square" alt="88%" /></td>
+<td align="right"><code>88%</code></td>
+<td align="left"><sub><i>amanhã eu faço</i></sub></td>
+</tr>
+<tr>
+<td colspan="4" align="center"><br><code>$ sudo make-it-work</code><br><sub>[sudo] senha: ********</sub><br><b>✔ permissão concedida. boa sorte.</b><br><br></td>
+</tr>
+</table>
 
-```text
-╭──────────────────────────────────────────────╮
-│  ░▒▓  P A I N E L   D E   B O R D O  ▓▒░     │
-├──────────────────────────────────────────────┤
-│  ● sistema ........ operacional (+ ou -)     │
-│  ● versão ......... v4.0.4-beta              │
-├──────────────────────────────────────────────┤
-│  CAFÉ         ▰▰▰▰▰▰▰▰▰▰  99%  abastecido    │
-│  FOCO         ▰▰▰▱▱▱▱▱▱▱  27%  carregando... │
-│  BUGS         ▰▰▰▰▰▰▱▱▱▱  64%  é feature     │
-│  SONO         ▱▱▱▱▱▱▱▱▱▱   3%  404           │
-│  DIVERSÃO     ▰▰▰▰▰▰▰▰▰▱  92%  nível alto    │
-│  PROCRASTINAR ▰▰▰▰▰▰▰▰▰▱  88%  amanhã        │
-├──────────────────────────────────────────────┤
-│  $ sudo make-it-work                         │
-│  > permissão concedida. boa sorte.           │
-╰──────────────────────────────────────────────╯
-```
+</div>
 
 <br>
 
