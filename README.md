@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:112250,100:1e40af&height=210&section=header&text=𝓑𝓤𝓢𝓗𝓘𝓓𝓞&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=o%20caminho%20do%20guerreiro%20digital&descColor=93c5fd&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="𝓑𝓤𝓢𝓗𝓘𝓓𝓞" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:112250,100:1e40af&height=210&section=header&text=𝓑𝓤𝓢𝓗𝓘𝓓𝓞&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=𝕺%20𝕮𝖆𝖒𝖎𝖓𝖍𝖔%2𝕯𝖔o%2𝕲𝖚𝖊𝖗𝖗𝖊𝖎𝖗𝖔o%2𝕯𝖎𝖌𝖎𝖙𝖆𝖑&descColor=93c5fd&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="𝓑𝓤𝓢𝓗𝓘𝓓𝓞" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3200&pause=1000&color=60A5FA&background=0A0F1E&center=true&vCenter=true&width=700&height=60&lines=%E4%BE%8D+%C2%B7+o+caminho+do+guerreiro;%E4%B8%83%E8%BB%A2%E3%81%B3%E5%85%AB%E8%B5%B7%E3%81%8D+%C2%B7+caia+sete+vezes%2C+levante+oito;%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A+%C2%B7+cada+encontro+acontece+uma+s%C3%B3+vez;%E7%B6%99%E7%B6%9A%E3%81%AF%E5%8A%9B%E3%81%AA%E3%82%8A+%C2%B7+persistir+%C3%A9+ter+poder;%E9%81%93+%C2%B7+o+caminho+%C3%A9+o+destino" alt="frases japonesas" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3200&pause=1000&color=60A5FA&background=0A0F1E&center=true&vCenter=true&width=700&height=60&lines=%E4%BE%8D+%C2%B7+𝕺+𝕮𝖆𝖒𝖎𝖓𝖍𝖔𝕯𝖔o+𝕲𝖚𝖊𝖗𝖗𝖊𝖎𝖗𝖔;%E4%B8%83%E8%BB%A2%E3%81%B3%E5%85%AB%E8%B5%B7%E3%81%8D+%C2%B7+caia+sete+vezes%2C+levante+oito;%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A+%C2%B7+cada+encontro+acontece+uma+s%C3%B3+vez;%E7%B6%99%E7%B6%9A%E3%81%AF%E5%8A%9B%E3%81%AA%E3%82%8A+%C2%B7+persistir+%C3%A9+ter+poder;%E9%81%93+%C2%B7+𝕺+𝕮𝖆𝖒𝖎𝖓𝖍𝖔+%C3%A9+o+destino" alt="frases japonesas" />
 
 <br>
 
