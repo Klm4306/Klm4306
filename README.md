@@ -1,159 +1,97 @@
-# README.md
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:172554,70:1D4ED8,100:020617&height=180&section=header&text=Better%20systems.&fontSize=30&fontColor=93C5FD&fontAlign=15&fontAlignY=35&desc=Fewer%20vulnerabilities.%20A%20safer%20tomorrow.&descSize=15&descAlign=25&descAlignY=60" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Veracode-111827?style=for-the-badge&logo=veracode&logoColor=00B4FF" />
-  <img src="https://img.shields.io/badge/GitLab-111827?style=for-the-badge&logo=gitlab&logoColor=FC6D26" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
-</div>
-
-<br/>
-
-<table>
+<table width="100%">
 <tr>
-<td width="48%" valign="top">
+<td>
 
-### ◉ GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Klm4306&show_icons=true&hide_border=true&bg_color=020817&title_color=60A5FA&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github&include_all_commits=true" width="100%" />
-</div>
-
-</td>
-<td width="52%" valign="top">
-
-### </> Top Languages
+<h3>✦ Contribution Streak</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klm4306&layout=compact&hide_border=true&bg_color=020817&title_color=60A5FA&text_color=CBD5E1&langs_count=6" width="100%" />
-</div>
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### ✦ Contribution Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Klm4306&hide_border=true&background=020817&ring=2563EB&fire=38BDF8&currStreakLabel=60A5FA&sideLabels=93C5FD&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" width="75%" />
+  <img src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=dark&hide_border=true&border_radius=6&background=000814&ring=2563EB&fire=38BDF8&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=60A5FA&sideLabels=60A5FA&dates=6B7280&stroke=D1D5DB" alt="GitHub Streak" />
 </div>
 
 </td>
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
-<td width="68%" valign="top">
 
-### ★ Recent Highlights
+<!-- COLUNA ESQUERDA -->
+<td valign="top" width="65%">
 
-<table>
+<h3>★ Recent Highlights</h3>
+
+<table width="100%">
 <tr>
 <td align="center" width="25%">
-
-🛡️
-
-**Security**
-
-<sub>AppSec & SAST/SCA</sub>
-
+<br>🛡️<br><br>
+<b>Security</b><br><br>
+<sub>AppSec &amp;<br>SAST/SCA</sub>
+<br><br>
 </td>
 <td align="center" width="25%">
-
-⚙️
-
-**CI/CD**
-
+<br>⚙️<br><br>
+<b>CI/CD</b><br><br>
 <sub>Build · Test · Deploy</sub>
-
+<br><br>
 </td>
 <td align="center" width="25%">
-
-☁️
-
-**Cloud**
-
-<sub>Scalable & Secure</sub>
-
+<br>☁️<br><br>
+<b>Cloud</b><br><br>
+<sub>Scalable &amp; Secure</sub>
+<br><br>
 </td>
 <td align="center" width="25%">
-
-🧠
-
-**Problem Solving**
-
+<br>🧠<br><br>
+<b>Problem<br>Solving</b><br><br>
 <sub>Ideas into solutions</sub>
-
+<br><br>
 </td>
 </tr>
 </table>
 
-### 🎮 Fun Facts
+<h3>🎮 Fun Facts</h3>
 
 <table>
 <tr>
-<td align="center">
-
-⚽
-
-**Football**
-
-<sub>Good game,<br/>better mood.</sub>
-
+<td align="center" width="20%">
+<br>⚽<br><br>
+<b>Football</b><br><br>
+<sub>Good game,<br>better mood.</sub>
+<br><br>
 </td>
-<td align="center">
-
-🏋️
-
-**Gym**
-
-<sub>Discipline<br/>builds freedom.</sub>
-
+<td align="center" width="20%">
+<br>🏋️<br><br>
+<b>Gym</b><br><br>
+<sub>Discipline<br>builds freedom.</sub>
+<br><br>
 </td>
-<td align="center">
-
-☕
-
-**Coffee**
-
-<sub>Fuel for<br/>big ideas.</sub>
-
+<td align="center" width="20%">
+<br>☕<br><br>
+<b>Coffee</b><br><br>
+<sub>Fuel for<br>big ideas.</sub>
+<br><br>
 </td>
-<td align="center">
-
-🎧
-
-**Music**
-
-<sub>Always<br/>in the playlist.</sub>
-
+<td align="center" width="20%">
+<br>🎧<br><br>
+<b>Music</b><br><br>
+<sub>Always<br>in the playlist.</sub>
+<br><br>
 </td>
-<td align="center">
-
-🏔️
-
-**Travel**
-
-<sub>New places,<br/>same curiosity.</sub>
-
+<td align="center" width="20%">
+<br>🏔️<br><br>
+<b>Travel</b><br><br>
+<sub>New places,<br>same curiosity.</sub>
+<br><br>
 </td>
 </tr>
 </table>
 
 </td>
-<td width="32%" valign="top">
 
-### ▸ Currently
+<!-- COLUNA DIREITA -->
+<td valign="top" width="35%">
+
+<h3>▸ Currently</h3>
 
 ```text
 > Learning new things
@@ -164,32 +102,19 @@
 > Improving every day
 ```
 
-<br/>
-
-<div align="center">
-
 ```text
-   /\_/\
-  ( o.o )
-   > ^ <
+    /\_/\
+   ( o.o )
+    > ^ <
 ```
 
-**Good Things Take Time.**
-
-<sub>小さな一歩 — one small step at a time.</sub>
-
+<div align="center">
+  <b>Good Things Take Time.</b>
+  <br><br>
+  <sub>小さな一歩 — one small step at a time.</sub>
 </div>
 
 </td>
+
 </tr>
 </table>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:172554,100:2563EB&height=3&section=footer" width="100%" />
-
-<sub>Thanks for stopping by. Now go build something cool. 🚀</sub>
-
-</div>
