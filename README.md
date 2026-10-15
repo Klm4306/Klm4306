@@ -39,7 +39,7 @@
 </tr>
 <tr>
 <td align="left">&nbsp;<b>刀</b>&nbsp; KATANA<br><sub>código limpo</sub></td>
-<td align="left"><code>🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</code></td>
+<td align="left"><code>🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜</code></td>
 <td align="right"><code>95%</code></td>
 <td align="left"><sub><i>refatorada e afiada</i></sub></td>
 </tr>
@@ -51,7 +51,7 @@
 </tr>
 <tr>
 <td align="left">&nbsp;<b>茶</b>&nbsp; CHÁ<br><sub>cafeína.exe</sub></td>
-<td align="left"><code>🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</code></td>
+<td align="left"><code>🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜</code></td>
 <td align="right"><code>99%</code></td>
 <td align="left"><sub><i>sempre quente</i></sub></td>
 </tr>
@@ -69,7 +69,7 @@
 </tr>
 <tr>
 <td align="left">&nbsp;<b>眠</b>&nbsp; SONO<br><sub>uptime do guerreiro</sub></td>
-<td align="left"><code>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</code></td>
+<td align="left"><code>🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜</code></td>
 <td align="right"><code>3%</code></td>
 <td align="left"><sub><i>sleep(0) // o guerreiro não dorme</i></sub></td>
 </tr>
@@ -107,6 +107,6 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,50:112250,100:0a0f1e&height=110&section=footer&text=arigato%20-%20obrigado%20por%20passar%20por%20aqui&fontColor=ffffff&fontSize=19&fontAlignY=70" width="100%" alt="arigato" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,50:112250,100:0a0f1e&height=110&section=footer&text=ありがとうございます%20&fontColor=ffffff&fontSize=19&fontAlignY=70" width="100%" alt="ありがとうございます" />
 
 </div>
