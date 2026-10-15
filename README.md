@@ -40,41 +40,41 @@
 <tr>
 <td align="left">&nbsp;<b>刀</b>&nbsp; KATANA<br><sub>código limpo</sub></td>
 <td align="left"><code>🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜</code></td>
-<td align="right"><code>95%</code></td>
-<td align="left"><sub><i>refatorada e afiada</i></sub></td>
+<td align="right"><code>50%</code></td>
+<td align="left"><sub><i>Refatorada e Afiada</i></sub></td>
 </tr>
 <tr>
 <td align="left">&nbsp;<b>禅</b>&nbsp; ZEN<br><sub>debug com calma</sub></td>
 <td align="left"><code>🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜</code></td>
-<td align="right"><code>72%</code></td>
-<td align="left"><sub><i>respirando fundo</i></sub></td>
+<td align="right"><code>70%</code></td>
+<td align="left"><sub><i>Respirando Fundo</i></sub></td>
 </tr>
 <tr>
 <td align="left">&nbsp;<b>茶</b>&nbsp; CHÁ<br><sub>cafeína.exe</sub></td>
 <td align="left"><code>🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜</code></td>
-<td align="right"><code>99%</code></td>
-<td align="left"><sub><i>sempre quente</i></sub></td>
+<td align="right"><code>60%</code></td>
+<td align="left"><sub><i>Sempre Quente</i></sub></td>
 </tr>
 <tr>
 <td align="left">&nbsp;<b>龍</b>&nbsp; DRAGÃO<br><sub>pipelines e DevOps</sub></td>
 <td align="left"><code>🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜</code></td>
-<td align="right"><code>88%</code></td>
-<td align="left"><sub><i>daemon acordado</i></sub></td>
+<td align="right"><code>90%</code></td>
+<td align="left"><sub><i>Daemon Acordado</i></sub></td>
 </tr>
 <tr>
 <td align="left">&nbsp;<b>桜</b>&nbsp; SAKURA<br><sub>front-end</sub></td>
 <td align="left"><code>🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜</code></td>
 <td align="right"><code>60%</code></td>
-<td align="left"><sub><i>build em andamento</i></sub></td>
+<td align="left"><sub><i>Build em Andamento</i></sub></td>
 </tr>
 <tr>
 <td align="left">&nbsp;<b>眠</b>&nbsp; SONO<br><sub>uptime do guerreiro</sub></td>
 <td align="left"><code>🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜</code></td>
-<td align="right"><code>3%</code></td>
-<td align="left"><sub><i>sleep(0) // o guerreiro não dorme</i></sub></td>
+<td align="right"><code>10%</code></td>
+<td align="left"><sub><i>sleep(0) // O Guerreiro não Dorme</i></sub></td>
 </tr>
 <tr>
-<td colspan="4" align="center"><br><b>「 七転び八起き 」</b><br><sub><code>git revert</code> × 7 &nbsp;·&nbsp; <code>git push</code> × 8 &nbsp;·&nbsp; caia sete vezes, levante oito.</sub><br><br></td>
+<td colspan="4" align="center"><br><b>「 七転び八起き 」</b><br><sub><code>git revert</code> × 7 &nbsp;·&nbsp; <code>git push</code> × 8 &nbsp;·&nbsp; Caia Sete Vezes, Levante Oito!.</sub><br><br></td>
 </tr>
 </table>
 
