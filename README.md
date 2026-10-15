@@ -10,7 +10,7 @@
 
 <br>
 
-### 🗡️ 武士道 · os sete códigos do samurai
+### 🗡️ 武士道 · Os 7 Códigos Do Samurai
 
 <img src="https://img.shields.io/badge/%E7%BE%A9%20GI-justi%C3%A7a-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="義 GI justiça" />
 <img src="https://img.shields.io/badge/%E5%8B%87%20YU-coragem-1e40af?style=for-the-badge&labelColor=0a0f1e" alt="勇 YU coragem" />
@@ -22,7 +22,7 @@
 
 <br><br>
 
-### 📜 巻物 · pergaminho do guerreiro
+### 📜 巻物 · Pergaminho Do Guerreiro
 
 <img src="https://img.shields.io/badge/Git-1e40af?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0f1e" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub_Actions-1e40af?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0a0f1e" alt="GitHub Actions" />
@@ -84,7 +84,7 @@
 
 <br>
 
-### 🐲 os números do guerreiro
+### 🐲 Os Números Do Guerreiro
 
 <img src="https://github-readme-stats.vercel.app/api?username=Klm4306&show_icons=true&include_all_commits=true&custom_title=Estat%C3%ADsticas%20do%20Guerreiro&bg_color=0A0F1E&border_color=1E3A8A&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&ring_color=3B82F6" height="165" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klm4306&layout=compact&custom_title=Armas%20do%20Samurai&bg_color=0A0F1E&border_color=1E3A8A&title_color=60A5FA&text_color=CBD5E1" height="165" alt="linguagens" />
@@ -99,7 +99,7 @@
 
 <br><br>
 
-### 🍃 俳句 · haiku do guerreiro
+### 🍃 俳句 · Haiku Do Guerreiro
 
 *commit na calma,*<br>
 *o bug dorme em silêncio —*<br>
