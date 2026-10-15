@@ -24,48 +24,57 @@
 
 ### 📜 巻物 · pergaminho do guerreiro
 
-<table width="660">
+<img src="https://img.shields.io/badge/Git-1e40af?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0f1e" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub_Actions-1e40af?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0a0f1e" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Python-1e40af?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0f1e" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-1e40af?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0a0f1e" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Docker-1e40af?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0f1e" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-1e40af?style=for-the-badge&logo=linux&logoColor=white&labelColor=0a0f1e" alt="Linux" />
+
+<br><br>
+
+<table width="700">
 <tr>
-<td colspan="4" align="center"><br><b>░▒▓&nbsp; 武 &nbsp;士 &nbsp;道 &nbsp;·&nbsp; B U S H I D O &nbsp;▓▒░</b><br><sub>🏯 dojo aberto &nbsp;·&nbsp; 🐉 dragão acordado &nbsp;·&nbsp; 🌸 estação: primavera</sub><br><br></td>
+<td colspan="4" align="center"><br><b>░▒▓&nbsp; 武 &nbsp;士 &nbsp;道 &nbsp;·&nbsp; B U S H I D O . E X E &nbsp;▓▒░</b><br><sub>🏯 dojo online &nbsp;·&nbsp; 🐉 daemon rodando &nbsp;·&nbsp; 🌸 status: deploy em produção</sub><br><br></td>
 </tr>
 <tr>
-<td align="left">&nbsp;<b>刀</b>&nbsp; KATANA</td>
-<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0-3b82f6?style=flat-square" alt="95%" /></td>
+<td align="left">&nbsp;<b>刀</b>&nbsp; KATANA<br><sub>código limpo</sub></td>
+<td align="left"><code>🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</code></td>
 <td align="right"><code>95%</code></td>
-<td align="left"><sub><i>afiada</i></sub></td>
+<td align="left"><sub><i>refatorada e afiada</i></sub></td>
 </tr>
 <tr>
-<td align="left">&nbsp;<b>禅</b>&nbsp; ZEN</td>
-<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1-2563eb?style=flat-square" alt="72%" /></td>
+<td align="left">&nbsp;<b>禅</b>&nbsp; ZEN<br><sub>debug com calma</sub></td>
+<td align="left"><code>🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜</code></td>
 <td align="right"><code>72%</code></td>
 <td align="left"><sub><i>respirando fundo</i></sub></td>
 </tr>
 <tr>
-<td align="left">&nbsp;<b>茶</b>&nbsp; CHÁ</td>
-<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0-3b82f6?style=flat-square" alt="99%" /></td>
+<td align="left">&nbsp;<b>茶</b>&nbsp; CHÁ<br><sub>cafeína.exe</sub></td>
+<td align="left"><code>🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</code></td>
 <td align="right"><code>99%</code></td>
 <td align="left"><sub><i>sempre quente</i></sub></td>
 </tr>
 <tr>
-<td align="left">&nbsp;<b>龍</b>&nbsp; DRAGÃO INTERIOR</td>
-<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1-3b82f6?style=flat-square" alt="88%" /></td>
+<td align="left">&nbsp;<b>龍</b>&nbsp; DRAGÃO<br><sub>pipelines e DevOps</sub></td>
+<td align="left"><code>🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜</code></td>
 <td align="right"><code>88%</code></td>
-<td align="left"><sub><i>acordado</i></sub></td>
+<td align="left"><sub><i>daemon acordado</i></sub></td>
 </tr>
 <tr>
-<td align="left">&nbsp;<b>桜</b>&nbsp; SAKURA</td>
-<td align="center"><img src="https://img.shields.io/badge/%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1-2563eb?style=flat-square" alt="60%" /></td>
+<td align="left">&nbsp;<b>桜</b>&nbsp; SAKURA<br><sub>front-end</sub></td>
+<td align="left"><code>🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜</code></td>
 <td align="right"><code>60%</code></td>
-<td align="left"><sub><i>florescendo</i></sub></td>
+<td align="left"><sub><i>build em andamento</i></sub></td>
 </tr>
 <tr>
-<td align="left">&nbsp;<b>眠</b>&nbsp; SONO</td>
-<td align="center"><img src="https://img.shields.io/badge/%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1-1e3a8a?style=flat-square" alt="3%" /></td>
+<td align="left">&nbsp;<b>眠</b>&nbsp; SONO<br><sub>uptime do guerreiro</sub></td>
+<td align="left"><code>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</code></td>
 <td align="right"><code>3%</code></td>
-<td align="left"><sub><i>o guerreiro não dorme</i></sub></td>
+<td align="left"><sub><i>sleep(0) // o guerreiro não dorme</i></sub></td>
 </tr>
 <tr>
-<td colspan="4" align="center"><br><b>「 七転び八起き 」</b><br><sub>caia sete vezes, levante oito.</sub><br><br></td>
+<td colspan="4" align="center"><br><b>「 七転び八起き 」</b><br><sub><code>git revert</code> × 7 &nbsp;·&nbsp; <code>git push</code> × 8 &nbsp;·&nbsp; caia sete vezes, levante oito.</sub><br><br></td>
 </tr>
 </table>
 
